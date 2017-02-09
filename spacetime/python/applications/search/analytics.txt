@@ -1,0 +1,39 @@
+Most Popular Subdomains:
+--------------------------------------------------
+archive.ics.uci.edu
+120
+
+www.ics.uci.edu
+39
+
+xtune.ics.uci.edu
+6
+
+tippersweb.ics.uci.edu
+2
+
+intranet.ics.uci.edu
+2
+
+scale.ics.uci.edu
+1
+
+www.ics.uci.eduhttp:
+1
+
+ngs.ics.uci.eduhttp:
+1
+
+Number of Invalid Links:
+--------------------------------------------------
+174
+
+
+Most Out Links:
+--------------------------------------------------
+http://www.uci.edu
+ 6
+
+Average Download Time:
+--------------------------------------------------
+0.0969220865518 - seconds/download 
